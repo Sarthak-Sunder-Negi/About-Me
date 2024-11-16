@@ -7,4 +7,4 @@ I am form Munbai,Maharashtra,but my native place is Uttarakhand
 <br> 
 Currently studying in Puducherry Technological University
 <br>
-Currnetly learning Git/Github
+Currnetly learning Git/Github,I forgot to do it though VS Code
